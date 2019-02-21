@@ -1,4 +1,4 @@
-# Packing-Library-C
+# Packing-Library-C++/Java
 
 C++ and Java program that will optimize some 2D shapes and produce SVG (Scalable Vector Graphics) files to display calculated 2D graphics.
 
